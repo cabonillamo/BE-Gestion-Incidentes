@@ -1,0 +1,6 @@
+@BE_Gestion_Incidentes_HostAddress = http://localhost:5094
+
+GET {{BE_Gestion_Incidentes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
