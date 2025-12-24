@@ -3,4 +3,23 @@
 ################################################################################
 
 /.vs
+## Ignora archivos de compilación
+bin/
+obj/
+*.user
+*.suo
+.vs/
 
+## Ignora archivos de Visual Studio
+.vscode/
+*.swp
+*.swo
+*~
+
+## Ignora packages de NuGet
+packages/
+*.nupkg
+
+## Ignora archivos de sistema
+.DS_Store
+Thumbs.db
