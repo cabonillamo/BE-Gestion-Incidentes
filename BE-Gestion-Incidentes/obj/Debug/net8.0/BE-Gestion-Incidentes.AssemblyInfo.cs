@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BE-Gestion-Incidentes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1611c3e449b1b1d77ad522f9237fb8cd428e914")]
 [assembly: System.Reflection.AssemblyProductAttribute("BE-Gestion-Incidentes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BE-Gestion-Incidentes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
